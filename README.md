@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/saquib-hasnain-0b84b71a4/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saquib-hasnain-0b84b71a4/" height="30" width="40" target="_blank" /></a>
-<a href="https://leetcode.com/u/saquibhasnain/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saquibhasnain/" height="30" width="40" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/saquib-hasnain-0b84b71a4/" target="_blank"/><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" target="_blank" alt="https://www.linkedin.com/in/saquib-hasnain-0b84b71a4/" height="30" width="40"  /></a>
+<a href="https://leetcode.com/u/saquibhasnain/" target="_blank"/><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/saquibhasnain/" height="30" width="40" target="_blank" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
