@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Saquib Hasnain</h1>
-<h3 align="center">A passionate "MERN Developer | Tech Enthusiast | Exploring and Learning Technology in Depth"</h3>
+<h3 align="center">A passionate "MERN Developer | Tech Enthusiast | Exploring and Learning Generative AI"</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saquib-hasnain&label=Profile%20views&color=0e75b6&style=flat" alt="saquib-hasnain" /> </p>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **NextJS,System Design**
+- 🌱 I’m currently learning **Generative AI,System Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saquib-Hasnain?tab=repositories](https://github.com/Saquib-Hasnain?tab=repositories)
-
+-📝 I write articles on 📝 (https://saquib-hasnain.hashnode.dev/)
 - 📝 I write articles on [https://namastedev.com/blog/misconceptions-regarding-npm-what-you-need-to-know-%f0%9f%94%8d/](https://namastedev.com/blog/misconceptions-regarding-npm-what-you-need-to-know-%f0%9f%94%8d/)
 
 - 💬 Ask me about **Node Js,Express ,MongoDB**
